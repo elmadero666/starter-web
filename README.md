@@ -8,6 +8,8 @@ Introduction for changes
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Hola, hola
 
 ## How To Contribute
+
+Send me money
