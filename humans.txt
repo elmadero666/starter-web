@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Iván Martínez i@.com afdsf
 
 # THANKS
 
