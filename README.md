@@ -13,3 +13,7 @@ Hola, hola
 ## How To Contribute
 
 Send me money
+
+### Copyright
+
+2021 Git.Training
